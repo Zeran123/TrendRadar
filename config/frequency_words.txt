@@ -1,4 +1,3 @@
-科技
 谷歌
 Google
 微软
@@ -9,7 +8,10 @@ Google
 Anthropic
 OpenAI
 Claude
-
+通义
+千问
+豆包
+AIGC
 
 苹果公司
 Apple
@@ -19,4 +21,8 @@ iphone
 ipad
 macbook
 
+国内
+深圳
+广东
+社会
 
